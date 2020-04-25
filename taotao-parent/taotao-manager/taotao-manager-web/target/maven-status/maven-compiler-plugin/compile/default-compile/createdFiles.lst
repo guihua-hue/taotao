@@ -1,0 +1,5 @@
+com\itszt\taotao\manager\controller\ItemCatController.class
+com\itszt\taotao\manager\vo\EasyUIPicUploadBean.class
+com\itszt\taotao\manager\controller\GoodsController.class
+com\itszt\taotao\manager\vo\EasyUISavItemBean.class
+com\itszt\taotao\manager\controller\FastDFSUtil.class

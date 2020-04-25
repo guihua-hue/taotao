@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212c6559-0ea9-43f6-b397-3eef9fc3172d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="taotao-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVzAYbCoknSHDJc3CrQTS4xStz" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/shijian/IdeaProjects/taotao-parent/taotao-manager/taotao-manager-inter/src/main/java/com/itszt/taotao/manager/service/inter/GoodsService.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559959609784" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-common/src/main/java/com/itszt/taotao/easyui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/taotao-manager/taotao-manager-dao/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itszt.taotao.manager.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\javaTest\taotao-parent\taotao-common\src\main\java\com\itszt\taotao\easyui" />
+      <recent name="D:\Idea-space\taotao-parent\taotao-manager\taotao-manager-web\src\main\java\com\itszt\taotao\manager\vo" />
+      <recent name="D:\Idea space\taotao-parent\taotao-manager\taotao-manager-web\src\main\resources" />
+      <recent name="D:\Idea space\taotao-parent\taotao-manager\taotao-manager-web\target\test-classes" />
+      <recent name="D:\Idea space\taotao-parent\taotao-manager\taotao-manager-web\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.taotao-manager-web">
+    <configuration name="taotao-manager-service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-manager/taotao-manager-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="taotao-manager-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taotao-manager/taotao-manager-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.taotao-manager-web" />
+      <item itemvalue="Maven.taotao-manager-service" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212c6559-0ea9-43f6-b397-3eef9fc3172d" name="Default Changelist" comment="" />
+      <created>1559884192968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559884192968</updated>
+      <workItem from="1559884196782" duration="4688000" />
+      <workItem from="1559954782420" duration="4656000" />
+      <workItem from="1586835407741" duration="2219000" />
+      <workItem from="1586919963234" duration="2076000" />
+      <workItem from="1586922235847" duration="11330000" />
+      <workItem from="1587288313080" duration="7962000" />
+      <workItem from="1587353468403" duration="1465000" />
+      <workItem from="1587381011083" duration="15563000" />
+      <workItem from="1587434244319" duration="4305000" />
+      <workItem from="1587458193699" duration="2752000" />
+      <workItem from="1587473501479" duration="4000" />
+      <workItem from="1587473560626" duration="3000" />
+      <workItem from="1587474044205" duration="148000" />
+      <workItem from="1587474257998" duration="5000" />
+      <workItem from="1587474318357" duration="5000" />
+      <workItem from="1587474386849" duration="7000" />
+      <workItem from="1587474463240" duration="6000" />
+      <workItem from="1587474534785" duration="5000" />
+      <workItem from="1587475139332" duration="81000" />
+      <workItem from="1587475900507" duration="43000" />
+      <workItem from="1587475980058" duration="4000" />
+      <workItem from="1587476047877" duration="4700000" />
+      <workItem from="1587521605023" duration="8711000" />
+      <workItem from="1587608156554" duration="868000" />
+      <workItem from="1587609320039" duration="855000" />
+      <workItem from="1587612018210" duration="15891000" />
+      <workItem from="1587693968160" duration="17706000" />
+      <workItem from="1587718151806" duration="4872000" />
+      <workItem from="1587725141931" duration="6365000" />
+      <workItem from="1587780173904" duration="876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
